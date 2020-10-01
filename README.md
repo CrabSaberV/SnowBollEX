@@ -15,17 +15,22 @@
 
 # 截图
 ![主界面](shotscreen/1.png)
-<center>(主界面)</center></br>
+<center>(主界面)</center>
+
 ![设置界面](shotscreen/2.png)
-<center>(设置界面)</center></br>
+<center>(设置界面)</center>
+
 ![关卡界面](shotscreen/3.png)
-<center>(关卡界面)</center></br>
+<center>(关卡界面)</center>
+
 ![商店](shotscreen/4.png)
-<center>(商店)</center></br>
+<center>(商店)</center>
+
 ![游戏场景](shotscreen/5.png)
-<center>(游戏场景)</center></br>
+<center>(游戏场景)</center>
+
 ![结算面板](shotscreen/6.png)
-<center>(结算面板)</center></br>
+<center>(结算面板)</center>
 
 # Feature
 项目较早，有些设计思想放到现在有些愚蠢了，等安顿下来，会将整个项目重构，包括框架，UI等。
